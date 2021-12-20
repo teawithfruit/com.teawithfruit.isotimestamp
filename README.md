@@ -1,2 +1,5 @@
-# com.teawithfruit.timestampiso
-Dynamic value that returns a ISO timestamp for Paw.
+# ISO timestamp
+
+Dynamic value that returns a ISO timestamp.
+
+For [Paw.app](https://luckymarmot.com/paw)
