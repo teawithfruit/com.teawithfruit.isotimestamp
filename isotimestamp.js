@@ -7,7 +7,7 @@ var ISOTimestampDynamicValue = function() {
   };
 };
 
-ISOTimestampDynamicValue.identifier = "com.teawithfruit.timestampiso";
+ISOTimestampDynamicValue.identifier = "com.teawithfruit.isotimestamp";
 ISOTimestampDynamicValue.title = "ISO timestamp";
 ISOTimestampDynamicValue.inputs = [];
 
